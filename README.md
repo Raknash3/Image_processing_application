@@ -1,5 +1,5 @@
-# **Assigment6**
-## **Image processing Application**
+
+# **Image processing Application**
 ### **Description**
 The application will receive the input file in ppm format and perform certain operations over the image and save it when the users wants. The input commands are provided by user either using text-based scripting or using a text script that contains. If the user provides an invalid command, the program will throw an exception and continue to wait for the correct input command. 
 
